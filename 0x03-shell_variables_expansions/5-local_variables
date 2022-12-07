@@ -1,2 +1,2 @@
-#!/bin/baash
-printenv
+#!/bin/bash
+set
