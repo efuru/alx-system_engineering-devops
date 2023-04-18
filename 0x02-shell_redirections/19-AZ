@@ -1,2 +1,2 @@
 #!/bin/bash
-tr A c | tr Z e
+echo 'input' | tr 'Ac' 'Ze'
