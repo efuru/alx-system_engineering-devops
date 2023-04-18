@@ -1,0 +1,2 @@
+#!/bin/bash
+ech $1 | tr 'A-Za-a' 'N-ZA-Mn-za-m'
